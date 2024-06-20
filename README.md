@@ -11,7 +11,6 @@ Unzip the App.zip file (I have to zip it because the file size was to large).
 
 ```sh
 git https://github.com/OmarBaig05/Duplicate_QuestionCheker_OnQuoraDataset.git
-cd App
 ```
 ##### You can see the working process in the Initial Work folder or if you want to run the application open the 'App' folder.
 #### 2. Create a Virtual Environment
