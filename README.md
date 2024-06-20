@@ -79,7 +79,7 @@ This file lists all the Python dependencies required to run the application.
 
 ### Final Notes
 - Ensure that the pre-trained models are included in the repository.
-- Use python version lower than 3.12, most likely 3.11.8
+- Use python version below 3.12, most likely 3.11.8, else you may encounter errors because the model was trained on specific versions of gensim and scikit_learn, and the version of gensim used in the project do not work on the higher version of python then 3.11.
 - There is a possibility that you might encounter an error relateed to C++ environment. To resolve this, download visual studio and download the desktop application module.
 
 By following these steps, you should be able to successfully run the Quora duplicate question detection application locally.
